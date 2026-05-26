@@ -1,0 +1,26 @@
+# Ignore everything by default
+*
+
+# Track portfolio versions and assets
+!portfolio-complete-*.html
+!portfolio-complete-*.pptx
+!assets/
+!assets/images/
+!.gitignore
+
+# Keep existing tracked files
+!.github/
+!.github/workflows/
+!.github/workflows/pages.yml
+!.nojekyll
+!README.md
+!PriyaJainResume.pdf
+!index.html
+!pptx_content.py
+!pptx_builder.py
+!build_v1_pptx.py
+!build_v2_pptx.py
+!build_v3_pptx.py
+!build_v4_pptx.py
+!build_v5_pptx.py
+!build_all_pptx.py
